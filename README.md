@@ -12,7 +12,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=izhanrehan&label=Profile%20Views&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Open%20to-Internship-blue" alt="Open to internship" />
   <img src="https://img.shields.io/badge/MERN-Full%20Stack-success" alt="MERN" />
 </p>
 
